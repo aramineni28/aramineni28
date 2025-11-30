@@ -13,8 +13,6 @@
 
 🤖 Cloud Infrastructure Automation: Spearheaded enterprise-scale EDR deployment across cloud and hybrid environments using Intune, SCCM, and Ansible. Built automated security workflows correlating telemetry across 10+ cloud and network sources for dynamic asset risk assessment and continuous security monitoring.
 
-🎓 Graduate Researcher: Advancing network security research at UMBC, developing Dockerized security testing protocols for secure communication evaluation. Delivered comprehensive lab assessments covering routing protocols, encryption standards, VPN configurations, and network segmentation strategies.
-
 ---
 
 ## 🔧 Technical Arsenal
@@ -38,12 +36,6 @@
 - **SOAR**: Azure Logic Apps, security workflow orchestration
 - **Incident Response**: ServiceNow, case management, incident triage
 
-### Programming & Security Automation
-- **Languages**: Python, KQL (Kusto Query Language), SQL, PowerShell, Java
-- **Automation**: API integration, data aggregation pipelines, detection algorithms
-- **DevSecOps**: CI/CD security integration, Infrastructure as Code (IaC), security testing automation
-- **Scripting**: PowerShell for Windows automation, Python for security tooling
-
 ### Infrastructure & Deployment Automation
 - **Configuration Management**: Ansible, SCCM, Intune
 - **Containerization**: Docker, container security, Kubernetes basics
@@ -55,11 +47,6 @@
 - **Compliance Standards**: NIST, CIS, CIA Triad, regulatory compliance
 - **Threat Intel Tools**: Digital Shadows, CyberSixgill, MISP, OSINT, CIRCL
 - **Cyber Threat Hunting**: CTH methodologies, threat actor profiling, IOC analysis
-
-### Operating Systems & Authentication
-- **Operating Systems**: Windows Server, Linux (security hardening, administration)
-- **Identity & Access**: Active Directory, Azure AD, IAM, privileged access management
-- **Authentication**: SSO, MFA, certificate-based authentication, identity security
 
 ### Certifications
 - ✅ Microsoft Security Operations Analyst (SC-200)
