@@ -61,7 +61,7 @@ University of Maryland Baltimore County (UMBC)
 ## 📫 Let's Connect
 
 - 📧 Email: a.ramineni09@gmail.com
-- 💼 LinkedIn: [Abhigna Ramineni]([https://linkedin.com/in/abhigna-ramineni](https://www.linkedin.com/in/abhigna-r-77a59514b/))
+- 💼 LinkedIn: [Abhigna Ramineni] (([https://linkedin.com/in/abhigna-ramineni](https://www.linkedin.com/in/abhigna-r-77a59514b/))
 - 🌐 Portfolio: [Coming Soon]
 
 ---
