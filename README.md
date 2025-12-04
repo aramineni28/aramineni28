@@ -1,18 +1,16 @@
-## About Me
-👋 Hello! I'm Abhigna Ramineni, a cloud security engineer and network security specialist focused on securing cloud-native environments, building scalable threat detection systems, and protecting enterprise infrastructure at scale.
+About Me
 
-☁️ Cloud Security Engineer: Specialized in Microsoft Azure security architecture with hands-on experience in Sentinel, Defender for Endpoint, Logic Apps, and cloud infrastructure hardening. Led $3.5M cloud security transformation project, implementing zero-trust principles and automated security workflows across multi-cloud environments.
+👩‍💻 Hello! I'm Abhigna Ramineni, a Cloud, Network & Security Engineer passionate about building secure, scalable, and intelligent infrastructure. My work blends networking fundamentals, cloud platforms, and modern security operations to protect systems at scale.
 
-🌐 Network Security Specialist: Expert in network traffic analysis, protocol security, and network-level threat detection. Analyzed traffic patterns across 20+ labs using Wireshark, developed custom secure communication protocols with SSL/TLS, and engineered detection algorithms leveraging IDS/IPS telemetry to enhance network exposure risk quantification by 35%.
+🔐 Security Engineering & SOC Expertise: Former Security Engineer at PwC, where I automated risk scoring, built detection logic, and led threat-hunting operations mapped to MITRE ATT&CK, improving detection accuracy and reducing response times by 75%.
 
-🛡️ Security Operations Analyst: Building automated threat detection and response systems that protect cloud and on-premises environments. Leveraging SIEM platforms and SOAR orchestration to identify and respond to threats with 75% faster response times while reducing organizational risk exposure by 30%.
+☁️ Cloud & Infrastructure Security: Hands-on experience securing environments across AWS, Azure, and GCP, including deploying Microsoft Defender for Endpoint and hardening enterprise cloud architectures within multi-million-dollar client projects.
 
-🔍 Threat Intelligence & Hunting Specialist: Advanced threat hunting operations mapped to MITRE ATT&CK, uncovering 10+ adversary TTPs across cloud and network infrastructure. Conducting in-depth analysis of 500+ monthly security incidents with focus on cloud misconfigurations, network anomalies, and lateral movement detection.
+🌐 Network Analysis & Protocol Engineering: Built secure communication systems using TCP sockets and performed deep packet inspection with Wireshark across 20+ labs, validating and remediating 50+ vulnerabilities with a 95% success rate.
 
-🚀 DevSecOps & Security Automation Expert: Developed scalable risk assessment workflows using Azure Logic Apps, Python APIs, and KQL, improving threat prioritization accuracy by 40%. Experienced in CI/CD pipeline security integration, Infrastructure as Code (IaC) security, and automated compliance validation.
+📊 Threat Intelligence & Detection Engineering: Designed security analytics in Microsoft Sentinel with Python and KQL, created intelligence reports for leadership, and analyzed hundreds of incidents monthly to drive real-world defense strategies.
 
-🤖 Cloud Infrastructure Automation: Spearheaded enterprise-scale EDR deployment across cloud and hybrid environments using Intune, SCCM, and Ansible. Built automated security workflows correlating telemetry across 10+ cloud and network sources for dynamic asset risk assessment and continuous security monitoring.
-
+⚙️ Automation & Engineering Mindset: Built Python-powered security pipelines, Dockerized lab environments, and IaC-driven workflows to scale detection, response, and auditing processes in enterprise environments.
 ---
 
 ## 🔧 Technical Arsenal
