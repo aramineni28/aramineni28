@@ -11,6 +11,7 @@ About Me
 📊 Threat Intelligence & Detection Engineering: Designed security analytics in Microsoft Sentinel with Python and KQL, created intelligence reports for leadership, and analyzed hundreds of incidents monthly to drive real-world defense strategies.
 
 ⚙️ Automation & Engineering Mindset: Built Python-powered security pipelines, Dockerized lab environments, and IaC-driven workflows to scale detection, response, and auditing processes in enterprise environments.
+
 ---
 
 ## 🔧 Technical Arsenal
